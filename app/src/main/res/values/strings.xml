@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Compose App</string>
+    <string name="top_bar">NCT 127 Members</string>
+    <string name="about_page">about_page</string>
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="position">Position</string>
+    <string name="description">Description</string>
+    <string name="my_picture">Developer Picture</string>
+    <string name="my_name">Cynthia Mutiara</string>
+    <string name="my_email">cynthiamutiara23@gmail.com</string>
+</resources>
